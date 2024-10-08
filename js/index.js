@@ -129,3 +129,75 @@
 //     console.log("num ${i}, kvadrat ildizi: ${Math.sqrt(i).toFixed(2)}");
 //   }
 // }
+
+// 2-masala
+// for (let i = 50; i <= 150; i++) {
+//     if (i % 5 === 0) {
+//         console.log("Son ${i}, uchinchi darajasi: ${Math.pow(i, 3)}");
+//     } else {
+//         console.log("Son ${i}: Bo'linmaydi");
+//     }
+// }
+
+// 3 - masala
+// for (let i = 1; i <= 50; i++) {
+//   if (i % 2 !== 0) {
+//     // toq sonlarni tekshiradi
+//     console.log("Son ${i}, 10 ga bo'lgan qoldig'i: ${i % 10}");
+//   } else {
+//     console.log(`Son ${i}: Juft son`);
+//   }
+// }
+
+// 4 - masala
+// for (let i = 10; i <= 100; i++) {
+//   if (i % 3 === 0 && i % 7 === 0) {
+//     // 3 va 7 ga bo'linadigan sonlarni tekshiradi
+//     console.log("son ${i}, kvadrat ildizi: ${Math.sqrt(i).toFixed(2)}");
+//   }
+// }
+
+// 5 - masala
+// for (let i = 1; i <= 30; i++) {
+//   if (i % 2 === 0 || i % 3 === 0) {
+//     console.log("son ${i}: Maxsus son");
+//   } else {
+//     console.log("son ${i}, sinus qiymati: ${Math.sin(i).toFixed(4)}");
+//   }
+// }
+
+// 6-masala
+// for (let i = 1; i <= 20; i++) {
+//   if (i % 2 !== 0) {
+//     console.log("Son ${i}, 5 ga bo'lgandagi natija: ${i / 5}");
+//   } else {
+//     console.log("Son ${i}, 2 ga bo'lgandagi natija: ${i / 2}");
+//   }
+// }
+
+// 7-masala
+// ???
+
+// 8 - masala
+// !!!!!!???
+
+// 9-misol
+// for (let i = 1; i <= 100; i++) {
+//   if (i > 0) {
+//     let square = Math.pow(i, 2);
+//     console.log("${i}: Kvadrati ${square}");
+//   } else {
+//     console.log("${i}: Musbat emas");
+//   }
+// }
+
+// 10-masala
+// for (let i = 100; i <= 200; i++) {
+//   if (i % 2 !== 0) {
+//     let cubeRoot = Math.cbrt(i);
+//     console.log("${i}: kub ildizi ${cubeRoot}");
+//   }
+// }
+
+// keyingi masalalar Matematik operatsiyalar va shartli tekshiruvlar
+// qiyin ekan.
